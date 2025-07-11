@@ -4,3 +4,4 @@ results/
 wandb/
 lightning_logs/
 drw_cryto_market/
+models/
